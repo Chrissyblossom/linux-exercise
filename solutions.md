@@ -103,8 +103,8 @@ Notes
 - '-k3'- sorts by the 3rd field
 - '-n' - numeric sort
 - 'sed'- stands for stream editor.It is used to find,replace,insert,delete,or transform text in a file or input stream.It processes text line-by-line and outputs the modified text.
-- 's' substitute
-- 'g' replace all ocurrences on each line (global)
+- 's' - substitute
+- 'g' - replace all ocurrences on each line (global)
 
 # Exercise 15
 ![alt text](<exercise 15.PNG>)
