@@ -2,7 +2,6 @@
 - 'touch'- creates an empty file or updates the timestamp if the file exists.
 - 'cat'- can create a file and let you input content, but it's used mainly to read/display file contents.
 
-![alt text](image.png)
 
 # Exercise 2
 - File permissions control read(r),write(w), and execute(x) access for owner, group, and others.
