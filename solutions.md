@@ -77,6 +77,7 @@ Explanation
 - ' awk' : searches. extracts andd manipulate columns/fields.
   
   ![alt text](<exercise 9.3.PNG>)
+ 
 
 # Exercise 10
 - Environment Variables- dynamic values that affect the behaviour of processes and programs in a system.
