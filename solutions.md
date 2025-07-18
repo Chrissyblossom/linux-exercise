@@ -28,11 +28,14 @@
 # Exercise 3 
 - Command to print number of lines, words and characters in a file:
 - wc filename
-![alt text](<exercise 3-1.PNG>)
+  
+  ![alt text](<exercise 3.PNG>)
 
 # Exercise 4
-![alt text](<exercise 4.PNG>)
-![alt text](<exercise 4.2.PNG>)
+
+  ![alt text](<exercise 4.PNG>)
+
+  ![alt text](<exercise 4.2.PNG>)
 
 Explanation
 - head -n 3 animals.txt outputs the first 3 lines.
@@ -40,12 +43,16 @@ Explanation
 
 # Exercise 5 
 - The command is 'grep'. 
-![alt text](<exercise 5.PNG>)
+  
+  ![alt text](<exercise 5.PNG>)
+
 - The command searches for the specified word and prints the line with the word in it. 
 
 # Exercise 6
 - 'ls'
-![alt text](image.png)
+  
+   ![alt text](image.png)
+
 - A directory is like a folder on your computer. It holds files and other directories.
 
 # Exercise 7
@@ -56,43 +63,54 @@ Explanation
 # Exercise 8
 - 'dirs' - shows the list of directories in the directory stack. It helps navigate through a stack of saved directories. 
 
-- use the manual command i.e. 'man'
+- use the manual command i.e. 'man' / --help / -h.
 
 # Exercise 9
-![alt text](<exercise 9.PNG>)
+- Date: 
+  
+  ![alt text](<exercise 9.PNG>)
 
 - 'grep': Searches for lines matching a pattern.
-![alt text](<exercise 9.2.PNG>)
+  
+   ![alt text](<exercise 9.2.PNG>)
+
 - ' awk' : searches. extracts andd manipulate columns/fields.
-![alt text](<exercise 9.3-1.PNG>)
+  
+  ![alt text](<exercise 9.3.PNG>)
 
 # Exercise 10
 - Environment Variables- dynamic values that affect the behaviour of processes and programs in a system.
-- HOME : path to your home directory
-- PATH : directories where executables are searched
-- USER : current logged-in user
-- SHELL : default shell program
-- PWD : present working directory
+
+Five environment variables:
+  - HOME : path to your home directory
+  - PATH : directories where executables are searched
+  - USER : current logged-in user
+  - SHELL : default shell program
+  - PWD : present working directory
 
 
+Difference between 'more' and 'less':
 
-- 'more': allows forward navigation only (basic)
-- 'less': supports forward and backward navigation, searching, and better performance (advanced)
+- 'more': allows forward scrolls (basic pager)
+- 'less': supports forward and backward navigation, searching, and better performance (advanced pager)
 
 # Exercise 11
-- 'file filename'
+- file < filename >
 
 # Exercise 12
 - The Filesystem Hierarchy Standard (FHS)
+  
 Important folders in the tree:
    - /home - user home directories
    - /etc - system configuration file
    - /bin - essential binary executables
 
 # Exercise 13 
+
 ![alt text](<exercise 13.PNG>)
 
 # Exercise  14
+
 ![alt text](<exercise 14.PNG>)
 
 ![alt text](<exercise 14.1.PNG>)
@@ -106,8 +124,8 @@ Notes
 - 'g' - replace all ocurrences on each line (global)
 
 # Exercise 15
-![alt text](<exercise 15.PNG>)
 
+![alt text](<exercise 15.PNG>)
 
 
 
