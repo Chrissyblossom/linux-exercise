@@ -29,8 +29,7 @@
 - Command to print number of lines, words and characters in a file:
 - wc filename
   
-   ![alt text](<exercise 3.PNG>)
-
+   ![alt text](<exercise 3-1.PNG>)
 # Exercise 4
 
    ![alt text](<exercise 4.PNG>)
