@@ -30,11 +30,11 @@
 - wc filename
   
    ![alt text](<exercise 3-1.PNG>)
+ 
 # Exercise 4
+![alt text](<exercise 4.PNG>)
 
-   ![alt text](<exercise 4.PNG>)
-
-   ![alt text](<exercise 4.2.PNG>)
+![alt text](<exercise 4.2.PNG>)
 
 Explanation
 - head -n 3 animals.txt outputs the first 3 lines.
@@ -71,7 +71,7 @@ Explanation
 
 - 'grep': Searches for lines matching a pattern.
   
-    ![alt text](<exercise 9.2.PNG>)
+  ![alt text](<exercise 9.2.PNG>)
 
 - ' awk' : searches. extracts andd manipulate columns/fields.
   
@@ -110,10 +110,10 @@ Important folders in the tree:
 ![alt text](<exercise 13.PNG>)
 
 # Exercise  14
+ ![alt text](<exercise 14-1.PNG>)
 
-![alt text](<exercise 14.PNG>)
+ ![alt text](<exercise 14.1.PNG>)
 
-![alt text](<exercise 14.1.PNG>)
 
 Notes 
 - '-t' - sets comma as delimiter
@@ -126,7 +126,6 @@ Notes
 # Exercise 15
 
 ![alt text](<exercise 15.PNG>)
-
 
 
 
