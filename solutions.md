@@ -29,13 +29,13 @@
 - Command to print number of lines, words and characters in a file:
 - wc filename
   
-  ![alt text](<exercise 3.PNG>)
+   ![alt text](<exercise 3.PNG>)
 
 # Exercise 4
 
-  ![alt text](<exercise 4.PNG>)
+   ![alt text](<exercise 4.PNG>)
 
-  ![alt text](<exercise 4.2.PNG>)
+   ![alt text](<exercise 4.2.PNG>)
 
 Explanation
 - head -n 3 animals.txt outputs the first 3 lines.
@@ -51,7 +51,7 @@ Explanation
 # Exercise 6
 - 'ls'
   
-   ![alt text](image.png)
+    ![alt text](image.png)
 
 - A directory is like a folder on your computer. It holds files and other directories.
 
@@ -68,11 +68,11 @@ Explanation
 # Exercise 9
 - Date: 
   
-  ![alt text](<exercise 9.PNG>)
+   ![alt text](<exercise 9.PNG>)
 
 - 'grep': Searches for lines matching a pattern.
   
-   ![alt text](<exercise 9.2.PNG>)
+    ![alt text](<exercise 9.2.PNG>)
 
 - ' awk' : searches. extracts andd manipulate columns/fields.
   
